@@ -32,6 +32,7 @@ If information is missing, the agent enters a multi-turn loop — pausing to col
 
 ### Setup Instructions
 
+### 1. Clone and navigate into the repository
 ```bash
 git clone https://github.com/benjamindalmeida-glitch/temple-webster-returns-agent.git
 cd temple-webster-returns-agent
