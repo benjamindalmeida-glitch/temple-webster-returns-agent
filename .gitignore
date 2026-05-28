@@ -1,0 +1,12 @@
+# Environments
+.venv/
+
+# Secrets
+.env
+
+# Python Cache
+__pycache__/
+*.pyc
+
+# Notes
+annotated_script.md
