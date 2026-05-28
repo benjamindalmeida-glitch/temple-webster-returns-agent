@@ -30,12 +30,12 @@ If information is missing, the agent enters a multi-turn loop — pausing to col
 | 103 | Outdoor Dining Set | $1,200 | In Transit |
 | 104 | Handwoven Jute Rug | $120 | Delivered 10 days ago |
 
-## Setup Instructions
+### Setup Instructions
 
-### 1. Clone and navigate into the repository
+1. Clone and navigate into the repository:
 ```bash
-git clone <your-repo-url>
-cd returns-resolution-agent
+git clone [https://github.com/benjamindalmeida-glitch/temple-webster-returns-agent.git](https://github.com/benjamindalmeida-glitch/temple-webster-returns-agent.git)
+cd temple-webster-returns-agent
 ```
 
 ### 2. Create and activate a virtual environment
